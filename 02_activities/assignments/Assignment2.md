@@ -195,5 +195,7 @@ This essay reminds me of the work of content moderators for social media platfor
 
 
 Sources
+
 Boykis, Vicki. "Neural nets are just people all the way down." Normcore Tech, 2019, https://vicki.substack.com/p/neural-nets-are-just-people-all-the.
+
 Crawford, Kate and Paglen, Trevor. “Excavating AI: The Politics of Training Sets for Machine Learning." The AI Now Institute, 2019, https://excavating.ai.
