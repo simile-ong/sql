@@ -216,6 +216,8 @@ In sum, it is interesting how the flaws of certain databases are almost entirely
 
 
 Sources
+
 Qadri, R. “When Databases Get to Define Family.” Wired. 11 Nov 2021,
 https://www.wired.com/story/pakistan-digital-database-family-design/.
+
 M. Hicks. "Hacking the Cis-tem," in IEEE Annals of the History of Computing, vol. 41, no. 1, pp. 20-33, 2019, https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8634814&isnumber=8667911.
