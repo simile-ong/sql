@@ -56,9 +56,16 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 ```
 Your answer...
 ```
-Type 1 models will overwrite the addresses
+Type 1 models will overwrite the addresses.
 
-Type 2 models will retain current and past data
+To implement this in the ERD, I would add an additional column in the customer table so that every time a customer updates their address, the most recent address will overwrite the previously recorded address.
+ 
+Type 2 models will retain current and past data.
+
+To implement this in the ERD, I added a new table called "customer_addresses" that will record every address that a customer has used.
+
+
+Source: Schott, Madison. "Slowly Changing Dimensions: What they are and why they matter." ThoughtSpot, 2023, https://www.thoughtspot.com/data-trends/data-modeling/slowly-changing-dimensions-in-data-warehouse.
 
 
 Source: 
