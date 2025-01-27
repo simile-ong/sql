@@ -56,6 +56,14 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 ```
 Your answer...
 ```
+Type 1 models will overwrite the addresses
+
+Type 2 models will retain current and past data
+
+
+Source: 
+Schott, Madison. "Slowly Changing Dimensions: What they are and why they matter." ThoughtSpot, 2023, https://www.thoughtspot.com/data-trends/data-modeling/slowly-changing-dimensions-in-data-warehouse.
+
 
 ***
 
